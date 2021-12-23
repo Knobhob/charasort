@@ -94,8 +94,8 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Miki Aihara",
-        img: "miki.png",
+        name: "Mai Aihara",
+        img: "mai.png",
         opts: {
             gender: ["female"],
             loli: false
