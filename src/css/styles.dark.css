@@ -215,7 +215,7 @@ label:hover {
   display: grid;
   width: 211px;
   grid-template-columns: repeat(2, 1fr);
-  border: 1px solid #000;
+  border: 1px solid gray;
   margin-right: 5px;
 }
 
@@ -229,7 +229,7 @@ label:hover {
 
 .result.spacer {
   height: 1px;
-  background-color: #000;
+  background-color: gray;
 }
 
 .result.head {
@@ -259,7 +259,7 @@ label:hover {
   width: 160px;
   padding: 1px 0em 1px 0em;
   grid-column: 2 / 3;
-  border-left: 1px solid #000;
+  border-left: 1px solid gray;
   text-align: center;
 }
 
