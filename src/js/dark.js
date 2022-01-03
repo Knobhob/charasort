@@ -1,0 +1,2 @@
+document.addEventListener("DOMContentLoaded",function(event){document.getElementById('themeToggle').addEventListener('click',function(e){e.preventDefault();toggleDarkMode();});if(typeof(Storage)!=='undefined'&&localStorage.getItem('theme')==='dark')
+document.body.classList.add('dark');});

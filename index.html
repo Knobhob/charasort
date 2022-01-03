@@ -10,16 +10,19 @@
   <title>Jantama Character Sorting</title>
 
   <link rel="stylesheet" type="text/css" href="src/css/reset.css">
-  <link rel="stylesheet" type="text/css" href="src/css/styles.css">
+  <link id="switcher" rel="stylesheet" type="text/css" href="src/css/styles.css">
+  <script>function toggleDarkMode(){"dark"===localStorage.getItem("theme")?setThemeLight():setThemeDark()}function setThemeDark(){switcher.href="src/css/styles.dark.css",localStorage.setItem("theme","dark"),document.body!==null&&document.body.classList.add('dark')}function setThemeLight(){switcher.href="src/css/styles.css",localStorage.setItem("theme","light"),document.body!==null&&document.body.classList.remove('dark')}if("undefined"!=typeof Storage){var switcher=document.getElementById("switcher");"dark"===localStorage.getItem("theme")&&setThemeDark()}</script>
 
   <script src="src/js/data.js"></script>
   <script src="src/js/data/2021-12-22.js"></script>
   <script src="src/js/data/2021-12-23.js"></script>
+  <script src="src/js/data/2022-01-03.js"></script>
 
   <script src="src/js/html2canvas.min.js"></script>
   <script src="src/js/lz-string.min.js"></script>
   <script src="src/js/seedrandom.min.js"></script>
   <script src="src/js/main.js"></script>
+  <script src="src/js/dark.js"></script>
 </head>
 
 <body>
@@ -60,6 +63,10 @@
     <div class="results"></div>
 
     <div class="info">
+        <a id="themeToggle" href="#">Toggle Dark Mode</a>
+
+        <br><br>
+
         <a href="https://github.com/Knobhob/charasort/">Source Code</a> | <a href="?IwNgLADATMAcWWrAPgVgJwXQdmMiwhExxhZBRBJFVZwp9N9jz5tzt1RLnHf7pBhR6NBI6lQZsJlOuVHCSrRd0pKVqjlyWbe6ofPwQgA"> Best Taste</a> | <a class="clearsave">Clear Save Data</a>
         
         <br><br>
@@ -80,6 +87,7 @@
 
         <br><br>
 
+        <p>January 3rd, 2022 - Added dark mode, added costumes.</p>
         <p>December 22nd, 2021 - Initial setup.</p>
     </div>
 </div>

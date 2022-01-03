@@ -23,7 +23,7 @@ dataSet[dataSetVersion].options= [
 dataSet[dataSetVersion].characterData = [
     {
         name: "A-37",
-        img: "a37.png",
+        img: "A-37 base.png",
         opts: {
             gender: ["male"],
             loli: false
@@ -31,7 +31,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Akagi Shigeru",
-        img: "akagi.png",
+        img: "Akagi base.png",
         opts: {
             gender: ["male"],
             loli: false
@@ -39,7 +39,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Anju Suzumiya",
-        img: "anju.png",
+        img: "Anju base.png",
         opts: {
             gender: ["female"],
             loli: true
@@ -47,7 +47,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Nana Shiraishi",
-        img: "banana.png",
+        img: "Nana base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -55,7 +55,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Ichihime",
-        img: "cat.png",
+        img: "Ichihime base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -63,7 +63,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Chihori Terasaki",
-        img: "chihori.png",
+        img: "Chihori base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -71,7 +71,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Chiori Mikami",
-        img: "chiori.png",
+        img: "Chiori base.png",
         opts: {
             gender: ["female"],
             loli: true
@@ -79,7 +79,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Miki Nikaidou",
-        img: "miki.png",
+        img: "Miki base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -87,7 +87,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kana Fujita",
-        img: "kana.png",
+        img: "Kana base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -95,7 +95,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Mai Aihara",
-        img: "mai.png",
+        img: "Mai base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -103,7 +103,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Nadeshiko",
-        img: "nadeshiko.png",
+        img: "Nadeshiko base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -111,7 +111,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Yui Yagi",
-        img: "yui.png",
+        img: "Yui base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -119,7 +119,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Riu Kujou",
-        img: "riu.png",
+        img: "Riu base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -127,7 +127,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Xenia",
-        img: "xenia.png",
+        img: "Xenia base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -135,7 +135,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kaavi",
-        img: "kaavi.png",
+        img: "Kaavi base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -143,7 +143,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Sara",
-        img: "sara.png",
+        img: "Sara base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -151,7 +151,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Hana Ninomiya",
-        img: "hana.png",
+        img: "Hana base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -159,7 +159,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Keikumusume",
-        img: "hat.png",
+        img: "Keikumusume base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -167,7 +167,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Hinata Takanashi",
-        img: "hinata.png",
+        img: "Hinata base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -175,7 +175,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Haruna Igarashi",
-        img: "haruna.png",
+        img: "Haruna base.png",
         opts: {
             gender: ["female"],
             loli: true
@@ -183,7 +183,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Sawako Kitami",
-        img: "mamako.png",
+        img: "Sawako base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -191,7 +191,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Momo Hina",
-        img: "hinamomo.png",
+        img: "Momo base.png",
         opts: {
             gender: ["female"],
             loli: true
@@ -199,7 +199,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kaguyahime",
-        img: "kaguya.png",
+        img: "Kaguyahime base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -207,7 +207,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kirara Fujimoto",
-        img: "jk.png",
+        img: "Kirara base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -215,7 +215,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Eliisa",
-        img: "eliisa.png",
+        img: "Eliisa base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -223,7 +223,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Saki Miyanaga",
-        img: "saki.png",
+        img: "Saki base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -231,7 +231,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Nodoka Haramura",
-        img: "nodo.png",
+        img: "Nodoka base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -239,7 +239,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Koromo Amae",
-        img: "koromo.png",
+        img: "Koromo base.png",
         opts: {
             gender: ["female"],
             loli: true
@@ -247,7 +247,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Teru Miyanaga",
-        img: "teru.png",
+        img: "Teru base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -255,7 +255,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Fu Ji",
-        img: "fuji.png",
+        img: "Fu Ji base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -263,7 +263,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Yumeko Jabami",
-        img: "jabami.png",
+        img: "Yumeko base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -271,7 +271,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Mary Saotome",
-        img: "mary.png",
+        img: "Mary base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -279,7 +279,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Midari Ikishima",
-        img: "midari.png",
+        img: "Midari base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -287,7 +287,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kirari Momobami",
-        img: "momobami.png",
+        img: "Kirari base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -295,7 +295,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Reina Nanami",
-        img: "reina.png",
+        img: "Reina base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -303,7 +303,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Hibiki Himekawa",
-        img: "hibiki.png",
+        img: "Hibiki base.png",
         opts: {
             gender: ["female"],
             loli: true
@@ -311,7 +311,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Ayako Morikawa",
-        img: "morikawa.png",
+        img: "Ayako base.png",
         opts: {
             gender: ["female"],
             loli: true
@@ -319,7 +319,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kazuha Saionji",
-        img: "kazuha.png",
+        img: "Kazuha base.png",
         opts: {
             gender: ["female"],
             loli: false
@@ -335,7 +335,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Wanjirou",
-        img: "wanjirou.png",
+        img: "Wanjirou base.png",
         opts: {
             gender: ["male"],
             loli: false
@@ -343,7 +343,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Natsuki Shinomiya",
-        img: "natsuki.png",
+        img: "Natsuki base.png",
         opts: {
             gender: ["male"],
             loli: false
@@ -351,7 +351,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Sora Ichinose",
-        img: "sora.png",
+        img: "Sora base.png",
         opts: {
             gender: ["male"],
             loli: true
@@ -359,7 +359,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Hideki Akechi",
-        img: "hideki.png",
+        img: "Hideki base.png",
         opts: {
             gender: ["male"],
             loli: false
@@ -367,7 +367,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Osamu Saitou",
-        img: "samu.png",
+        img: "Osamu base.png",
         opts: {
             gender: ["male"],
             loli: false
@@ -375,7 +375,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Joseph",
-        img: "joseph.png",
+        img: "Joseph base.png",
         opts: {
             gender: ["male"],
             loli: false
@@ -383,7 +383,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Ein",
-        img: "ein.png",
+        img: "Ein base.png",
         opts: {
             gender: ["male"],
             loli: false
@@ -391,7 +391,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Zan Tsukimi",
-        img: "zan.png",
+        img: "Zan base.png",
         opts: {
             gender: ["male"],
             loli: false
@@ -399,7 +399,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Ren Kisaragi",
-        img: "ren.png",
+        img: "Ren base.png",
         opts: {
             gender: ["male"],
             loli: false
@@ -407,7 +407,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Usumi Ishihara",
-        img: "usumi.png",
+        img: "Usumi base.png",
         opts: {
             gender: ["male"],
             loli: false
@@ -415,7 +415,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Qi Xi",
-        img: "qixi.png",
+        img: "Qi Xi base.png",
         opts: {
             gender: ["male"],
             loli: true
@@ -423,7 +423,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Ryan",
-        img: "ryan.png",
+        img: "Ryan base.png",
         opts: {
             gender: ["male"],
             loli: false
@@ -431,15 +431,15 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Natsuhiko Takigawa",
-        img: "takegawa.png",
+        img: "Natsuhiko base.png",
         opts: {
             gender: ["male"],
             loli: false
         }
     },
     {
-        name: "Iwao Washizu",
-        img: "washizu.png",
+        name: "Washizu Iwao",
+        img: "Washizu base.png",
         opts: {
             gender: ["male"],
             loli: false
