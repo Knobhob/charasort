@@ -21,3 +21,4 @@ let dataSetVersion = '';
  * Image root, will be appended to the start of every image URL.
  */
 const imageRoot = 'src/assets/faces/';
+const fullbodyRoot = 'src/assets/body/';

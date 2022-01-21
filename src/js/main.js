@@ -294,9 +294,9 @@ function display() {
   progressBar(`Battle No. ${battleNo}`, percent);
 
   document.querySelector('.left.sort.image').src = leftChar.img;
-  document.querySelector('.left.sort.image').setAttribute("fullbody", leftChar.fullbody);
+  document.querySelector('.left.sort.image').setAttribute("fullbody", fullbodyRoot + leftChar.fullbody);
   document.querySelector('.right.sort.image').src = rightChar.img;
-  document.querySelector('.right.sort.image').setAttribute("fullbody", rightChar.fullbody);
+  document.querySelector('.right.sort.image').setAttribute("fullbody", fullbodyRoot + rightChar.fullbody);
 
   
 
@@ -850,16 +850,16 @@ function getCover(event) {
   }
   $('#coverCont img')[0].src = image?image:'/static/common/noartwork/nocover.png'
   coverCont.style.display = 'block'
-  coverListener = mevent => {
-    let wh = window.innerHeight, ch = coverCont.clientHeight, ph = mevent.clientY
-    let pos = (ph<wh/2) ? ((ph+ch+10>wh) ? wh-ch : ph+10) : ((ph-ch-10<0) ? 0 : ph-ch-10)
-    coverCont.style.top = pos+'px'
-    if (mevent.clientX > window.innerWidth/2) {
-      coverCont.style.left = "initial"
-      coverCont.style.right = window.innerWidth-mevent.clientX+10+"px"
+  coverListener = function (mevent) {
+    let wh = window.innerHeight, ch = coverCont.clientHeight, ph = mevent.clientY;
+    let pos = (ph < wh / 2) ? ((ph + ch + 10 > wh) ? wh - ch : ph + 10) : ((ph - ch - 10 < 0) ? 0 : ph - ch - 10);
+    coverCont.style.top = pos + 'px';
+    if (mevent.clientX > window.innerWidth / 2) {
+      coverCont.style.left = "initial";
+      coverCont.style.right = window.innerWidth - mevent.clientX + 10 + "px";
     } else {
-      coverCont.style.left = mevent.clientX+10+"px"
-      coverCont.style.right = "initial"
+      coverCont.style.left = mevent.clientX + 10 + "px";
+      coverCont.style.right = "initial";
     }
   }
   document.addEventListener("mousemove", coverListener)

@@ -286,3 +286,16 @@ a:hover {
 a:visited {
   color: #6600FF;
 }
+
+#coverCont {
+  position: fixed;
+  height: 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  z-index: 9999;
+}
+
+#coverCont img {
+  max-width: 100%;
+  max-height: 100%;
+}
