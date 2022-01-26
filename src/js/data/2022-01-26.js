@@ -1749,6 +1749,16 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Nanaha Onodera (Bonded)",
+        img: "Nanaha bond.png",
+        fullbody: "Nanaha bond.png",
+        opts: {
+            outfit: ["bond"],
+            gender: ["female"],
+            loli: false
+        }
+    },
+    {
         name: "Sammir",
         img: "Sammir base.png",
         fullbody: "Sammir base.png",
@@ -1758,4 +1768,14 @@ dataSet[dataSetVersion].characterData = [
             loli: false
         }
     },
+    {
+        name: "Sammir (Bonded)",
+        img: "Sammir bond.png",
+        fullbody: "Sammir bond.png",
+        opts: {
+            outfit: ["bond"],
+            gender: ["male"],
+            loli: false
+        }
+    }
 ];
