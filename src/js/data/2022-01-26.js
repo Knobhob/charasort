@@ -1,4 +1,4 @@
-dataSetVersion = "2022-01-21"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2022-01-26"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options= [
@@ -41,7 +41,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Ichihime",
         img: "Ichihime base.png",
-        fullbody: "https://i.imgur.com/4qrNj1T.png",
+        fullbody: "Ichihime base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -51,7 +51,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Ichihime (Bonded)",
         img: "Ichihime bond.png",
-        fullbody: "https://i.imgur.com/6z7ojjZ.png",
+        fullbody: "Ichihime bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -61,7 +61,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Beach Party Ichihime",
         img: "Ichihime swimsuit.png",
-        fullbody: "https://i.imgur.com/AjPbGdo.png",
+        fullbody: "Ichihime swimsuit.png",
         opts: {
             outfit: ["swimsuit"],
             gender: ["female"],
@@ -71,7 +71,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Ichihime (New Year)",
         img: "Ichihime new year.png",
-        fullbody: "https://i.imgur.com/chDYuKW.png",
+        fullbody: "Ichihime new year.png",
         opts: {
             outfit: ["newyear"],
             gender: ["female"],
@@ -81,7 +81,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Invincible Ichihime",
         img: "Ichihime invincible.png",
-        fullbody: "https://i.imgur.com/92kHFFO.png",
+        fullbody: "Ichihime invincible.png",
         opts: {
             outfit: ["misc"],
             gender: ["female"],
@@ -91,7 +91,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Miki Nikaidou",
         img: "Miki base.png",
-        fullbody: "https://i.imgur.com/S6F9pgX.png",
+        fullbody: "Miki base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -101,7 +101,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Miki Nikaidou (Bonded)",
         img: "Miki bond.png",
-        fullbody: "https://i.imgur.com/0xTT4vm.png",
+        fullbody: "Miki bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -111,7 +111,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Miki Nikaidou (Halloween)",
         img: "Miki halloween.png",
-        fullbody: "https://i.imgur.com/LkhYziy.png",
+        fullbody: "Miki halloween.png",
         opts: {
             outfit: ["halloween"],
             gender: ["female"],
@@ -121,7 +121,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Spring Celebration Miki Nikaidou",
         img: "Miki festival.png",
-        fullbody: "https://i.imgur.com/QrMJRfw.png",
+        fullbody: "Miki festival.png",
         opts: {
             outfit: ["festival"],
             gender: ["female"],
@@ -131,7 +131,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Kana Fujita",
         img: "Kana base.png",
-        fullbody: "https://i.imgur.com/WwKmRDa.png",
+        fullbody: "Kana base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -141,7 +141,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Kana Fujita (Bonded)",
         img: "Kana bond.png",
-        fullbody: "https://i.imgur.com/sft8zzw.png",
+        fullbody: "Kana bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -151,7 +151,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Kana Fujita (Christmas)",
         img: "Kana christmas.png",
-        fullbody: "https://i.imgur.com/fH0XOkw.png",
+        fullbody: "Kana christmas.png",
         opts: {
             outfit: ["christmas"],
             gender: ["female"],
@@ -161,7 +161,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Kana Fujita (Halloween)",
         img: "Kana halloween.png",
-        fullbody: "https://i.imgur.com/t7kg3CQ.png",
+        fullbody: "Kana halloween.png",
         opts: {
             outfit: ["halloween"],
             gender: ["female"],
@@ -171,7 +171,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Chiori Mikami",
         img: "Chiori base.png",
-        fullbody: "https://i.imgur.com/5coQ3Hd.png",
+        fullbody: "Chiori base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -181,7 +181,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Chiori Mikami (Bonded)",
         img: "Chiori bond.png",
-        fullbody: "https://i.imgur.com/wf1LzLJ.png",
+        fullbody: "Chiori bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -191,7 +191,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Chiori Mikami (Christmas)",
         img: "Chiori christmas.png",
-        fullbody: "https://i.imgur.com/8iM3JjF.png",
+        fullbody: "Chiori christmas.png",
         opts: {
             outfit: ["christmas"],
             gender: ["female"],
@@ -201,7 +201,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Chiori Mikami (Swimsuit)",
         img: "Chiori swimsuit.png",
-        fullbody: "https://i.imgur.com/Pddafut.png",
+        fullbody: "Chiori swimsuit.png",
         opts: {
             outfit: ["swimsuit"],
             gender: ["female"],
@@ -211,7 +211,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Sweet Refreshment Chiori Mikami",
         img: "Chiori sweets.png",
-        fullbody: "https://i.imgur.com/dNyZTq2.png",
+        fullbody: "Chiori sweets.png",
         opts: {
             outfit: ["misc"],
             gender: ["female"],
@@ -221,7 +221,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Mai Aihara",
         img: "Mai base.png",
-        fullbody: "https://i.imgur.com/CI1Ki7p.png",
+        fullbody: "Mai base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -231,7 +231,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Mai Aihara (Bonded)",
         img: "Mai bond.png",
-        fullbody: "https://i.imgur.com/lHWCJlL.png",
+        fullbody: "Mai bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -241,7 +241,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Beach Party Mai Aihara",
         img: "Mai swimsuit.png",
-        fullbody: "https://i.imgur.com/1C4FoUB.png",
+        fullbody: "Mai swimsuit.png",
         opts: {
             outfit: ["swimsuit"],
             gender: ["female"],
@@ -251,7 +251,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Wonderful Youth Mai Aihara",
         img: "Mai new year.png",
-        fullbody: "https://i.imgur.com/MtJVvQS.png",
+        fullbody: "Mai new year.png",
         opts: {
             outfit: ["newyear"],
             gender: ["female"],
@@ -261,7 +261,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Nadeshiko",
         img: "Nadeshiko base.png",
-        fullbody: "https://i.imgur.com/51iPcAx.png",
+        fullbody: "Nadeshiko base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -271,7 +271,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Nadeshiko (Bonded)",
         img: "Nadeshiko bond.png",
-        fullbody: "https://i.imgur.com/myyGTz2.png",
+        fullbody: "Nadeshiko bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -281,7 +281,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Beach Party Nadeshiko",
         img: "Nadeshiko swimsuit.png",
-        fullbody: "https://i.imgur.com/WO0HTUw.png",
+        fullbody: "Nadeshiko swimsuit.png",
         opts: {
             outfit: ["swimsuit"],
             gender: ["female"],
@@ -291,7 +291,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Auspicious Snow Nadeshiko",
         img: "Nadeshiko new year.png",
-        fullbody: "https://i.imgur.com/PS7X7ud.png",
+        fullbody: "Nadeshiko new year.png",
         opts: {
             outfit: ["newyear"],
             gender: ["female"],
@@ -301,7 +301,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Yui Yagi",
         img: "Yui base.png",
-        fullbody: "https://i.imgur.com/qXQaycu.png",
+        fullbody: "Yui base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -311,7 +311,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Yui Yagi (Bonded)",
         img: "Yui bond.png",
-        fullbody: "https://i.imgur.com/fSbi9nF.png",
+        fullbody: "Yui bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -321,7 +321,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Yui Yagi (Christmas)",
         img: "Yui christmas.png",
-        fullbody: "https://i.imgur.com/sCrgB9S.png",
+        fullbody: "Yui christmas.png",
         opts: {
             outfit: ["christmas"],
             gender: ["female"],
@@ -331,7 +331,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Yui Yagi (Halloween)",
         img: "Yui halloween.png",
-        fullbody: "https://i.imgur.com/29qtBwH.png",
+        fullbody: "Yui halloween.png",
         opts: {
             outfit: ["halloween"],
             gender: ["female"],
@@ -341,7 +341,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Riu Kujou",
         img: "Riu base.png",
-        fullbody: "https://i.imgur.com/p7p09db.png",
+        fullbody: "Riu base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -351,7 +351,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Riu Kujou (Bonded)",
         img: "Riu bond.png",
-        fullbody: "https://i.imgur.com/KQPERGv.png",
+        fullbody: "Riu bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -361,7 +361,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Beach Party Riu Kujou",
         img: "Riu swimsuit.png",
-        fullbody: "https://i.imgur.com/zxTEKJ0.png",
+        fullbody: "Riu swimsuit.png",
         opts: {
             outfit: ["swimsuit"],
             gender: ["female"],
@@ -371,7 +371,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Riu Kujou (New Year)",
         img: "Riu new year.png",
-        fullbody: "https://i.imgur.com/Azlt9AJ.png",
+        fullbody: "Riu new year.png",
         opts: {
             outfit: ["newyear"],
             gender: ["female"],
@@ -381,7 +381,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Xenia",
         img: "Xenia base.png",
-        fullbody: "https://i.imgur.com/RtSYtSo.png",
+        fullbody: "Xenia base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -391,7 +391,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Xenia (Bonded)",
         img: "Xenia bond.png",
-        fullbody: "https://i.imgur.com/SvqTHVy.png",
+        fullbody: "Xenia bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -401,7 +401,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Xenia (Halloween)",
         img: "Xenia halloween.png",
-        fullbody: "https://i.imgur.com/1xmEo2n.png",
+        fullbody: "Xenia halloween.png",
         opts: {
             outfit: ["halloween"],
             gender: ["female"],
@@ -411,7 +411,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Beach Party Xenia",
         img: "Xenia swimsuit.png",
-        fullbody: "https://i.imgur.com/NMgmqqj.png",
+        fullbody: "Xenia swimsuit.png",
         opts: {
             outfit: ["swimsuit"],
             gender: ["female"],
@@ -421,7 +421,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Kaavi",
         img: "Kaavi base.png",
-        fullbody: "https://i.imgur.com/0J4QPy6.png",
+        fullbody: "Kaavi base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -431,7 +431,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Kaavi (Bonded)",
         img: "Kaavi bond.png",
-        fullbody: "https://i.imgur.com/0RKPl0B.png",
+        fullbody: "Kaavi bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -441,7 +441,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Kaavi (Swimsuit)",
         img: "Kaavi swimsuit.png",
-        fullbody: "https://i.imgur.com/zBmW7nQ.png",
+        fullbody: "Kaavi swimsuit.png",
         opts: {
             outfit: ["swimsuit"],
             gender: ["female"],
@@ -451,7 +451,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Natsuki Shinomiya",
         img: "Natsuki base.png",
-        fullbody: "https://i.imgur.com/6tqOtbd.png",
+        fullbody: "Natsuki base.png",
         opts: {
             outfit: ["base"],
             gender: ["male"],
@@ -461,7 +461,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Natsuki Shinomiya (Bonded)",
         img: "Natsuki bond.png",
-        fullbody: "https://i.imgur.com/ngGIstr.png",
+        fullbody: "Natsuki bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["male"],
@@ -471,7 +471,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Natsuki Shinomiya (Halloween)",
         img: "Natsuki halloween.png",
-        fullbody: "https://i.imgur.com/65iVtEb.png",
+        fullbody: "Natsuki halloween.png",
         opts: {
             outfit: ["halloween"],
             gender: ["male"],
@@ -481,7 +481,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Auspicious Snow Natsuki Shinomiya",
         img: "Natsuki new year.png",
-        fullbody: "https://i.imgur.com/IwUpWEb.png",
+        fullbody: "Natsuki new year.png",
         opts: {
             outfit: ["newyear"],
             gender: ["male"],
@@ -491,7 +491,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Wanjirou",
         img: "Wanjirou base.png",
-        fullbody: "https://i.imgur.com/RHiW9y5.png",
+        fullbody: "Wanjirou base.png",
         opts: {
             outfit: ["base"],
             gender: ["male"],
@@ -501,7 +501,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Wanjirou (Bonded)",
         img: "Wanjirou bond.png",
-        fullbody: "https://i.imgur.com/3CJEWgI.png",
+        fullbody: "Wanjirou bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["male"],
@@ -511,7 +511,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Wanjirou (Halloween)",
         img: "Wanjirou halloween.png",
-        fullbody: "https://i.imgur.com/FhDyba2.png",
+        fullbody: "Wanjirou halloween.png",
         opts: {
             outfit: ["halloween"],
             gender: ["male"],
@@ -521,7 +521,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Sora Ichinose",
         img: "Sora base.png",
-        fullbody: "https://i.imgur.com/aiTlhOX.png",
+        fullbody: "Sora base.png",
         opts: {
             outfit: ["base"],
             gender: ["male"],
@@ -531,7 +531,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Sora Ichinose (Bonded)",
         img: "Sora bond.png",
-        fullbody: "https://i.imgur.com/aCwDSc9.png",
+        fullbody: "Sora bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["male"],
@@ -541,7 +541,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Sora Ichinose (Christmas)",
         img: "Sora christmas.png",
-        fullbody: "https://i.imgur.com/MzNGk71.png",
+        fullbody: "Sora christmas.png",
         opts: {
             outfit: ["christmas"],
             gender: ["male"],
@@ -551,7 +551,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Spring Homecoming Sora Ichinose",
         img: "Sora school.png",
-        fullbody: "https://i.imgur.com/BFFS156.png",
+        fullbody: "Sora school.png",
         opts: {
             outfit: ["school"],
             gender: ["male"],
@@ -561,7 +561,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Hideki Akechi",
         img: "Hideki base.png",
-        fullbody: "https://i.imgur.com/eRAQwfQ.png",
+        fullbody: "Hideki base.png",
         opts: {
             outfit: ["base"],
             gender: ["male"],
@@ -571,7 +571,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Hideki Akechi (Bonded)",
         img: "Hideki bond.png",
-        fullbody: "https://i.imgur.com/s6e9krW.png",
+        fullbody: "Hideki bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["male"],
@@ -581,7 +581,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Hideki Akechi (Halloween)",
         img: "Hideki halloween.png",
-        fullbody: "https://i.imgur.com/im8KNov.png",
+        fullbody: "Hideki halloween.png",
         opts: {
             outfit: ["halloween"],
             gender: ["male"],
@@ -591,7 +591,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Hideki Akechi (Swimsuit)",
         img: "Hideki swimsuit.png",
-        fullbody: "https://i.imgur.com/mOk4CsU.png",
+        fullbody: "Hideki swimsuit.png",
         opts: {
             outfit: ["swimsuit"],
             gender: ["male"],
@@ -601,7 +601,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Keikumusume",
         img: "Keikumusume base.png",
-        fullbody: "https://i.imgur.com/V6zgmTq.png",
+        fullbody: "Keikumusume base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -611,7 +611,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Keikumusume (Bonded)",
         img: "Keikumusume bond.png",
-        fullbody: "https://i.imgur.com/k86mVHS.png",
+        fullbody: "Keikumusume bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -621,7 +621,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Keikumusume (Swimsuit)",
         img: "Keikumusume swimsuit.png",
-        fullbody: "https://i.imgur.com/GT0JyCC.png",
+        fullbody: "Keikumusume swimsuit.png",
         opts: {
             outfit: ["swimsuit"],
             gender: ["female"],
@@ -631,7 +631,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Sara",
         img: "Sara base.png",
-        fullbody: "https://i.imgur.com/16AnOCQ.png",
+        fullbody: "Sara base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -641,7 +641,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Sara (Bonded)",
         img: "Sara bond.png",
-        fullbody: "https://i.imgur.com/cBysfDu.png",
+        fullbody: "Sara bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -651,7 +651,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Sara (New Year)",
         img: "Sara new year.png",
-        fullbody: "https://i.imgur.com/lHSZO7t.png",
+        fullbody: "Sara new year.png",
         opts: {
             outfit: ["newyear"],
             gender: ["female"],
@@ -661,7 +661,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Spring Homecoming Sara",
         img: "Sara school.png",
-        fullbody: "https://i.imgur.com/GZFhjCT.png",
+        fullbody: "Sara school.png",
         opts: {
             outfit: ["school"],
             gender: ["female"],
@@ -671,7 +671,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Hana Ninomiya",
         img: "Hana base.png",
-        fullbody: "https://i.imgur.com/WX0zhta.png",
+        fullbody: "Hana base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -681,7 +681,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Hana Ninomiya (Bonded)",
         img: "Hana bond.png",
-        fullbody: "https://i.imgur.com/4deu9q9.png",
+        fullbody: "Hana bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -691,7 +691,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Spring Celebration Hana Ninomiya",
         img: "Hana festival.png",
-        fullbody: "https://i.imgur.com/Lts9F1d.png",
+        fullbody: "Hana festival.png",
         opts: {
             outfit: ["festival"],
             gender: ["female"],
@@ -701,7 +701,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Hana Ninomiya (Swimsuit)",
         img: "Hana swimsuit.png",
-        fullbody: "https://i.imgur.com/92MNtmR.png",
+        fullbody: "Hana swimsuit.png",
         opts: {
             outfit: ["swimsuit"],
             gender: ["female"],
@@ -711,7 +711,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Nana Shiraishi",
         img: "Nana base.png",
-        fullbody: "https://i.imgur.com/jPOo7zb.png",
+        fullbody: "Nana base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -721,7 +721,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Nana Shiraishi (Bonded)",
         img: "Nana bond.png",
-        fullbody: "https://i.imgur.com/7ddKpUW.png",
+        fullbody: "Nana bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -731,7 +731,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Nana Shiraishi (Swimsuit)",
         img: "Nana swimsuit.png",
-        fullbody: "https://i.imgur.com/7YMfHmI.png",
+        fullbody: "Nana swimsuit.png",
         opts: {
             outfit: ["swimsuit"],
             gender: ["female"],
@@ -741,7 +741,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Hinata Takanashi",
         img: "Hinata base.png",
-        fullbody: "https://i.imgur.com/Nh6CP0B.png",
+        fullbody: "Hinata base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -751,7 +751,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Hinata Takanashi (Bonded)",
         img: "Hinata bond.png",
-        fullbody: "https://i.imgur.com/TTWgXdM.png",
+        fullbody: "Hinata bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -761,7 +761,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Sweet Refreshment Hinata Takanashi",
         img: "Hinata sweets.png",
-        fullbody: "https://i.imgur.com/oqrwSy1.png",
+        fullbody: "Hinata sweets.png",
         opts: {
             outfit: ["misc"],
             gender: ["female"],
@@ -771,7 +771,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Firework Date Hinata Takanashi",
         img: "Hinata festival.png",
-        fullbody: "https://i.imgur.com/h6186O9.png",
+        fullbody: "Hinata festival.png",
         opts: {
             outfit: ["festival"],
             gender: ["female"],
@@ -781,7 +781,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Haruna Igarashi",
         img: "Haruna base.png",
-        fullbody: "https://i.imgur.com/ztMqKun.png",
+        fullbody: "Haruna base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -791,7 +791,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Haruna Igarashi (Bonded)",
         img: "Haruna bond.png",
-        fullbody: "https://i.imgur.com/xySDqI5.png",
+        fullbody: "Haruna bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -801,7 +801,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Haruna Igarashi (Swimsuit)",
         img: "Haruna swimsuit.png",
-        fullbody: "https://i.imgur.com/L6Ol7D7.png",
+        fullbody: "Haruna swimsuit.png",
         opts: {
             outfit: ["swimsuit"],
             gender: ["female"],
@@ -811,7 +811,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Spring Homecoming Haruna Igarashi",
         img: "Haruna school.png",
-        fullbody: "https://i.imgur.com/l4BVFJc.png",
+        fullbody: "Haruna school.png",
         opts: {
             outfit: ["school"],
             gender: ["female"],
@@ -821,7 +821,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Anju Suzumiya",
         img: "Anju base.png",
-        fullbody: "https://i.imgur.com/dTMJFAv.png",
+        fullbody: "Anju base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -831,7 +831,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Anju Suzumiya (Bonded)",
         img: "Anju bond.png",
-        fullbody: "https://i.imgur.com/n4TF97f.png",
+        fullbody: "Anju bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -841,7 +841,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Bedtime Stories Anju Suzumiya",
         img: "Anju pyjama.png",
-        fullbody: "https://i.imgur.com/TFd9JDx.png",
+        fullbody: "Anju pyjama.png",
         opts: {
             outfit: ["misc"],
             gender: ["female"],
@@ -851,7 +851,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Firework Date Anju Suzumiya",
         img: "Anju festival.png",
-        fullbody: "https://i.imgur.com/7Fn1XFt.png",
+        fullbody: "Anju festival.png",
         opts: {
             outfit: ["festival"],
             gender: ["female"],
@@ -861,7 +861,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Joseph",
         img: "Joseph base.png",
-        fullbody: "https://i.imgur.com/0g28JTv.png",
+        fullbody: "Joseph base.png",
         opts: {
             outfit: ["base"],
             gender: ["male"],
@@ -871,7 +871,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Joseph (Bonded)",
         img: "Joseph bond.png",
-        fullbody: "https://i.imgur.com/mbmkAdn.png",
+        fullbody: "Joseph bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["male"],
@@ -881,7 +881,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Joseph (New Year)",
         img: "Joseph new year.png",
-        fullbody: "https://i.imgur.com/wkvRi8k.png",
+        fullbody: "Joseph new year.png",
         opts: {
             outfit: ["newyear"],
             gender: ["male"],
@@ -891,7 +891,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Osamu Saitou",
         img: "Osamu base.png",
-        fullbody: "https://i.imgur.com/mJ98132.png",
+        fullbody: "Osamu base.png",
         opts: {
             outfit: ["base"],
             gender: ["male"],
@@ -901,7 +901,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Osamu Saitou (Bonded)",
         img: "Osamu bond.png",
-        fullbody: "https://i.imgur.com/RsccmOu.png",
+        fullbody: "Osamu bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["male"],
@@ -911,7 +911,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Firework Date Osamu Saitou",
         img: "Osamu festival.png",
-        fullbody: "https://i.imgur.com/4QCRS1E.png",
+        fullbody: "Osamu festival.png",
         opts: {
             outfit: ["festival"],
             gender: ["male"],
@@ -921,7 +921,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Sawako Kitami",
         img: "Sawako base.png",
-        fullbody: "https://i.imgur.com/LPjYqok.png",
+        fullbody: "Sawako base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -931,7 +931,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Sawako Kitami (Bonded)",
         img: "Sawako bond.png",
-        fullbody: "https://i.imgur.com/oxrLiG7.png",
+        fullbody: "Sawako bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -941,7 +941,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Sawako Kitami (Christmas)",
         img: "Sawako christmas.png",
-        fullbody: "https://i.imgur.com/4iy0SUp.png",
+        fullbody: "Sawako christmas.png",
         opts: {
             outfit: ["christmas"],
             gender: ["female"],
@@ -951,7 +951,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Ein",
         img: "Ein base.png",
-        fullbody: "https://i.imgur.com/Zi9Sm81.png",
+        fullbody: "Ein base.png",
         opts: {
             outfit: ["base"],
             gender: ["male"],
@@ -961,7 +961,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Ein (Bonded)",
         img: "Ein bond.png",
-        fullbody: "https://i.imgur.com/2GDM5WB.png",
+        fullbody: "Ein bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["male"],
@@ -971,7 +971,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Ein (Swimsuit)",
         img: "Ein swimsuit.png",
-        fullbody: "https://i.imgur.com/WPbbJbL.png",
+        fullbody: "Ein swimsuit.png",
         opts: {
             outfit: ["swimsuit"],
             gender: ["male"],
@@ -981,7 +981,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Momo Hina",
         img: "Momo base.png",
-        fullbody: "https://i.imgur.com/iZsxadH.png",
+        fullbody: "Momo base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -991,7 +991,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Momo Hina (Bonded)",
         img: "Momo bond.png",
-        fullbody: "https://i.imgur.com/C8TTfS7.png",
+        fullbody: "Momo bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -1001,7 +1001,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Wonderful Youth Momo Hina",
         img: "Momo new year.png",
-        fullbody: "https://i.imgur.com/EJCrhpg.png",
+        fullbody: "Momo new year.png",
         opts: {
             outfit: ["newyear"],
             gender: ["female"],
@@ -1011,7 +1011,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Zan Tsukimi",
         img: "Zan base.png",
-        fullbody: "https://i.imgur.com/rzP05KR.png",
+        fullbody: "Zan base.png",
         opts: {
             outfit: ["base"],
             gender: ["male"],
@@ -1021,7 +1021,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Zan Tsukimi (Bonded)",
         img: "Zan bond.png",
-        fullbody: "https://i.imgur.com/K9gpvdp.png",
+        fullbody: "Zan bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["male"],
@@ -1031,7 +1031,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Spring Homecoming Zan Tsukimi",
         img: "Zan school.png",
-        fullbody: "https://i.imgur.com/P9Fo5yD.png",
+        fullbody: "Zan school.png",
         opts: {
             outfit: ["school"],
             gender: ["male"],
@@ -1041,7 +1041,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Kirara Fujimoto",
         img: "Kirara base.png",
-        fullbody: "https://i.imgur.com/FC2gdGP.png",
+        fullbody: "Kirara base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -1051,7 +1051,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Kirara Fujimoto (Bonded)",
         img: "Kirara bond.png",
-        fullbody: "https://i.imgur.com/TVPwyUg.png",
+        fullbody: "Kirara bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -1061,7 +1061,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Kirara Fujimoto (New Year)",
         img: "Kirara new year.png",
-        fullbody: "https://i.imgur.com/di6bNUV.png",
+        fullbody: "Kirara new year.png",
         opts: {
             outfit: ["newyear"],
             gender: ["female"],
@@ -1071,7 +1071,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Kaguyahime",
         img: "Kaguyahime base.png",
-        fullbody: "https://i.imgur.com/Vo2oI1r.png",
+        fullbody: "Kaguyahime base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -1081,7 +1081,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Kaguyahime (Bonded)",
         img: "Kaguyahime bond.png",
-        fullbody: "https://i.imgur.com/UnRHuJP.png",
+        fullbody: "Kaguyahime bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -1091,7 +1091,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Snowy Night Whisper Kaguyahime",
         img: "Kaguyahime christmas.png",
-        fullbody: "https://i.imgur.com/1BH0geg.png",
+        fullbody: "Kaguyahime christmas.png",
         opts: {
             outfit: ["christmas"],
             gender: ["female"],
@@ -1099,9 +1099,19 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Festive Aroma Kaguyahime",
+        img: "Kaguyahime new year.png",
+        fullbody: "Kaguyahime new year.png",
+        opts: {
+            outfit: ["newyear"],
+            gender: ["female"],
+            loli: false
+        }
+    },
+    {
         name: "Ren Kisaragi",
         img: "Ren base.png",
-        fullbody: "https://i.imgur.com/iiRzt0a.png",
+        fullbody: "Ren base.png",
         opts: {
             outfit: ["base"],
             gender: ["male"],
@@ -1111,7 +1121,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Ren Kisaragi (Bonded)",
         img: "Ren bond.png",
-        fullbody: "https://i.imgur.com/u0phhLg.png",
+        fullbody: "Ren bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["male"],
@@ -1121,7 +1131,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Ren Kisaragi (Halloween)",
         img: "Ren halloween.png",
-        fullbody: "https://i.imgur.com/ke76EOZ.png",
+        fullbody: "Ren halloween.png",
         opts: {
             outfit: ["halloween"],
             gender: ["male"],
@@ -1131,7 +1141,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Usumi Ishihara",
         img: "Usumi base.png",
-        fullbody: "https://i.imgur.com/g5KRuQF.png",
+        fullbody: "Usumi base.png",
         opts: {
             outfit: ["base"],
             gender: ["male"],
@@ -1141,7 +1151,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Usumi Ishihara (Bonded)",
         img: "Usumi bond.png",
-        fullbody: "https://i.imgur.com/n22xQQ5.png",
+        fullbody: "Usumi bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["male"],
@@ -1151,7 +1161,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "White Hymn Usumi Ishihara",
         img: "Usumi christmas.png",
-        fullbody: "https://i.imgur.com/cEq16Ok.png",
+        fullbody: "Usumi christmas.png",
         opts: {
             outfit: ["christmas"],
             gender: ["male"],
@@ -1161,7 +1171,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Eliisa",
         img: "Eliisa base.png",
-        fullbody: "https://i.imgur.com/9MirypL.png",
+        fullbody: "Eliisa base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -1171,7 +1181,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Eliisa (Bonded)",
         img: "Eliisa bond.png",
-        fullbody: "https://i.imgur.com/PyQ54rC.png",
+        fullbody: "Eliisa bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -1181,7 +1191,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Bedtime Stories Eliisa",
         img: "Eliisa pyjama.png",
-        fullbody: "https://i.imgur.com/CWTENiE.png",
+        fullbody: "Eliisa pyjama.png",
         opts: {
             outfit: ["misc"],
             gender: ["female"],
@@ -1189,9 +1199,19 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Festive Aroma Eliisa",
+        img: "Eliisa new year.png",
+        fullbody: "Eliisa new year.png",
+        opts: {
+            outfit: ["newyear"],
+            gender: ["female"],
+            loli: false
+        }
+    },
+    {
         name: "Chihori Terasaki",
         img: "Chihori base.png",
-        fullbody: "https://i.imgur.com/5lmfRIb.png",
+        fullbody: "Chihori base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -1201,7 +1221,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Chihori Terasaki (Bonded)",
         img: "Chihori bond.png",
-        fullbody: "https://i.imgur.com/FSP2ZQI.png",
+        fullbody: "Chihori bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -1211,7 +1231,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Saki Miyanaga",
         img: "Saki base.png",
-        fullbody: "https://i.imgur.com/d8WbiZF.png",
+        fullbody: "Saki base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -1221,7 +1241,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Saki Miyanaga (Bonded)",
         img: "Saki bond.png",
-        fullbody: "https://i.imgur.com/tnE6P97.png",
+        fullbody: "Saki bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -1231,7 +1251,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Saki Miyanaga (Collab)",
         img: "Saki collab.png",
-        fullbody: "https://i.imgur.com/ZmoayVG.png",
+        fullbody: "Saki collab.png",
         opts: {
             outfit: ["misc"],
             gender: ["female"],
@@ -1241,7 +1261,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Nodoka Haramura",
         img: "Nodoka base.png",
-        fullbody: "https://i.imgur.com/s58VvXy.png",
+        fullbody: "Nodoka base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -1251,7 +1271,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Nodoka Haramura (Bonded)",
         img: "Nodoka bond.png",
-        fullbody: "https://i.imgur.com/NOOsTeZ.png",
+        fullbody: "Nodoka bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -1261,7 +1281,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Nodoka Haramura (Collab)",
         img: "Nodoka collab.png",
-        fullbody: "https://i.imgur.com/5EPU2As.png",
+        fullbody: "Nodoka collab.png",
         opts: {
             outfit: ["misc"],
             gender: ["female"],
@@ -1271,7 +1291,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Koromo Amae",
         img: "Koromo base.png",
-        fullbody: "https://i.imgur.com/VRdJUDa.png",
+        fullbody: "Koromo base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -1281,7 +1301,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Koromo Amae (Bonded)",
         img: "Koromo bond.png",
-        fullbody: "https://i.imgur.com/InvhvtN.png",
+        fullbody: "Koromo bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -1291,7 +1311,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Koromo Amae (Collab)",
         img: "Koromo collab.png",
-        fullbody: "https://i.imgur.com/1wr1ijK.png",
+        fullbody: "Koromo collab.png",
         opts: {
             outfit: ["misc"],
             gender: ["female"],
@@ -1301,7 +1321,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Teru Miyanaga",
         img: "Teru base.png",
-        fullbody: "https://i.imgur.com/zp52EsQ.png",
+        fullbody: "Teru base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -1311,7 +1331,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Teru Miyanaga (Bonded)",
         img: "Teru bond.png",
-        fullbody: "https://i.imgur.com/LBTJAWf.png",
+        fullbody: "Teru bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -1321,7 +1341,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Teru Miyanaga (Collab)",
         img: "Teru collab.png",
-        fullbody: "https://i.imgur.com/Ye85UOc.png",
+        fullbody: "Teru collab.png",
         opts: {
             outfit: ["misc"],
             gender: ["female"],
@@ -1331,7 +1351,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Fu Ji",
         img: "Fu Ji base.png",
-        fullbody: "https://i.imgur.com/QuQ1BDV.png",
+        fullbody: "Fu Ji base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -1341,7 +1361,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Fu Ji (Bonded)",
         img: "Fu Ji bond.png",
-        fullbody: "https://i.imgur.com/mV02Nxz.png",
+        fullbody: "Fu Ji bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -1351,7 +1371,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Qi Xi",
         img: "Qi Xi base.png",
-        fullbody: "https://i.imgur.com/dzLaWMB.png",
+        fullbody: "Qi Xi base.png",
         opts: {
             outfit: ["base"],
             gender: ["male"],
@@ -1361,7 +1381,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Qi Xi (Bonded)",
         img: "Qi Xi bond.png",
-        fullbody: "https://i.imgur.com/4oz4QW5.png",
+        fullbody: "Qi Xi bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["male"],
@@ -1371,7 +1391,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Yumeko Jabami",
         img: "Yumeko base.png",
-        fullbody: "https://i.imgur.com/LILsALd.png",
+        fullbody: "Yumeko base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -1381,7 +1401,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Yumeko Jabami (Bonded)",
         img: "Yumeko bond.png",
-        fullbody: "https://i.imgur.com/VzRwr8a.png",
+        fullbody: "Yumeko bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -1391,7 +1411,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Yumeko Jabami (Collab)",
         img: "Yumeko collab.png",
-        fullbody: "https://i.imgur.com/zblv04Z.png",
+        fullbody: "Yumeko collab.png",
         opts: {
             outfit: ["misc"],
             gender: ["female"],
@@ -1401,7 +1421,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Mary Saotome",
         img: "Mary base.png",
-        fullbody: "https://i.imgur.com/lE2zzWj.png",
+        fullbody: "Mary base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -1411,7 +1431,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Mary Saotome (Bonded)",
         img: "Mary bond.png",
-        fullbody: "https://i.imgur.com/Zpc04dH.png",
+        fullbody: "Mary bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -1421,7 +1441,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Mary Saotome (Collab)",
         img: "Mary collab.png",
-        fullbody: "https://i.imgur.com/GPP6hmG.png",
+        fullbody: "Mary collab.png",
         opts: {
             outfit: ["misc"],
             gender: ["female"],
@@ -1431,7 +1451,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Midari Ikishima",
         img: "Midari base.png",
-        fullbody: "https://i.imgur.com/fuHNGFS.png",
+        fullbody: "Midari base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -1441,7 +1461,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Midari Ikishima (Bonded)",
         img: "Midari bond.png",
-        fullbody: "https://i.imgur.com/GW8pi8K.png",
+        fullbody: "Midari bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -1451,7 +1471,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Midari Ikishima (Collab)",
         img: "Midari collab.png",
-        fullbody: "https://i.imgur.com/eCH5N0V.png",
+        fullbody: "Midari collab.png",
         opts: {
             outfit: ["misc"],
             gender: ["female"],
@@ -1461,7 +1481,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Kirari Momobami",
         img: "Kirari base.png",
-        fullbody: "https://i.imgur.com/pH91Ew3.png",
+        fullbody: "Kirari base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -1471,7 +1491,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Kirari Momobami (Bonded)",
         img: "Kirari bond.png",
-        fullbody: "https://i.imgur.com/dYPRhX4.png", 
+        fullbody: "Kirari bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -1481,7 +1501,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Kirari Momobami (Collab)",
         img: "Kirari collab.png",
-        fullbody: "https://i.imgur.com/eQBWG79.png",
+        fullbody: "Kirari collab.png",
         opts: {
             outfit: ["misc"],
             gender: ["female"],
@@ -1491,7 +1511,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Reina Nanami",
         img: "Reina base.png",
-        fullbody: "https://i.imgur.com/Wqd3RFa.png",
+        fullbody: "Reina base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -1501,7 +1521,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Reina Nanami (Bonded)",
         img: "Reina bond.png",
-        fullbody: "https://i.imgur.com/z3PdEu4.png",
+        fullbody: "Reina bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -1511,7 +1531,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "White Hymn Reina Nanami",
         img: "Reina christmas.png",
-        fullbody: "https://i.imgur.com/BMfp9Mc.png",
+        fullbody: "Reina christmas.png",
         opts: {
             outfit: ["christmas"],
             gender: ["female"],
@@ -1521,7 +1541,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "A-37",
         img: "A-37 base.png",
-        fullbody: "https://i.imgur.com/PoaTGjb.png",
+        fullbody: "A-37 base.png",
         opts: {
             outfit: ["base"],
             gender: ["male"],
@@ -1531,7 +1551,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "A-37 (Bonded)",
         img: "A-37 bond.png",
-        fullbody: "https://i.imgur.com/6dKrOlR.png",
+        fullbody: "A-37 bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["male"],
@@ -1541,7 +1561,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Firework Date A-37",
         img: "A-37 festival.png",
-        fullbody: "https://i.imgur.com/qx2HOiC.png",
+        fullbody: "A-37 festival.png",
         opts: {
             outfit: ["festival"],
             gender: ["male"],
@@ -1551,7 +1571,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Hibiki Himekawa",
         img: "Hibiki base.png",
-        fullbody: "https://i.imgur.com/zpB3Kmq.png",
+        fullbody: "Hibiki base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -1561,7 +1581,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Hibiki Himekawa (Bonded)",
         img: "Hibiki bond.png",
-        fullbody: "https://i.imgur.com/P3IGuoW.png",
+        fullbody: "Hibiki bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -1571,7 +1591,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Ryan",
         img: "Ryan base.png",
-        fullbody: "https://i.imgur.com/jMVG8Py.png",
+        fullbody: "Ryan base.png",
         opts: {
             outfit: ["base"],
             gender: ["male"],
@@ -1581,7 +1601,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Ryan (Bonded)",
         img: "Ryan bond.png",
-        fullbody: "https://i.imgur.com/IBp9Hdf.png",
+        fullbody: "Ryan bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["male"],
@@ -1591,7 +1611,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Ayako Morikawa",
         img: "Ayako base.png",
-        fullbody: "https://i.imgur.com/KWhsRwD.png",
+        fullbody: "Ayako base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -1601,7 +1621,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Ayako Morikawa (Bonded)",
         img: "Ayako bond.png",
-        fullbody: "https://i.imgur.com/QwZFrQo.png",
+        fullbody: "Ayako bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -1611,7 +1631,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Natsuhiko Takigawa",
         img: "Natsuhiko base.png",
-        fullbody: "https://i.imgur.com/po4v1UT.png",
+        fullbody: "Natsuhiko base.png",
         opts: {
             outfit: ["base"],
             gender: ["male"],
@@ -1621,7 +1641,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Natsuhiko Takigawa (Bonded)",
         img: "Natsuhiko bond.png",
-        fullbody: "https://i.imgur.com/UD3GUzq.png",
+        fullbody: "Natsuhiko bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["male"],
@@ -1631,7 +1651,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Akagi Shigeru",
         img: "Akagi base.png",
-        fullbody: "https://i.imgur.com/nKk4mhD.png",
+        fullbody: "Akagi base.png",
         opts: {
             outfit: ["base"],
             gender: ["male"],
@@ -1641,7 +1661,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Akagi Shigeru (Bonded)",
         img: "Akagi bond.png",
-        fullbody: "https://i.imgur.com/f1busNe.png",
+        fullbody: "Akagi bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["male"],
@@ -1651,7 +1671,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Akagi Shigeru (Collab)",
         img: "Akagi collab.png",
-        fullbody: "https://i.imgur.com/QrOzxL9.png",
+        fullbody: "Akagi collab.png",
         opts: {
             outfit: ["misc"],
             gender: ["male"],
@@ -1661,7 +1681,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Washizu Iwao",
         img: "Washizu base.png",
-        fullbody: "https://i.imgur.com/ZQjTR7I.png",
+        fullbody: "Washizu base.png",
         opts: {
             outfit: ["base"],
             gender: ["male"],
@@ -1671,7 +1691,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Washizu Iwao (Bonded)",
         img: "Washizu bond.png",
-        fullbody: "https://i.imgur.com/bTWwSH6.png",
+        fullbody: "Washizu bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["male"],
@@ -1681,7 +1701,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Washizu Iwao (Collab)",
         img: "Washizu collab.png",
-        fullbody: "https://i.imgur.com/tnsaogR.png",
+        fullbody: "Washizu collab.png",
         opts: {
             outfit: ["misc"],
             gender: ["male"],
@@ -1691,7 +1711,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Kazuha Saionji",
         img: "Kazuha base.png",
-        fullbody: "https://i.imgur.com/RhoYKJb.png",
+        fullbody: "Kazuha base.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
@@ -1701,7 +1721,7 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Kazuha Saionji (Bonded)",
         img: "Kazuha bond.png",
-        fullbody: "https://i.imgur.com/LnVgHcs.png",
+        fullbody: "Kazuha bond.png",
         opts: {
             outfit: ["bond"],
             gender: ["female"],
@@ -1711,10 +1731,31 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Nian",
         img: "nian.png",
+        fullbody: "nian.png",
         opts: {
             outfit: ["base"],
             gender: ["female"],
             loli: false
         }
-    }
+    },
+    {
+        name: "Nanaha Onodera",
+        img: "Nanaha base.png",
+        fullbody: "Nanaha base.png",
+        opts: {
+            outfit: ["base"],
+            gender: ["female"],
+            loli: false
+        }
+    },
+    {
+        name: "Sammir",
+        img: "Sammir base.png",
+        fullbody: "Sammir base.png",
+        opts: {
+            outfit: ["base"],
+            gender: ["male"],
+            loli: false
+        }
+    },
 ];
