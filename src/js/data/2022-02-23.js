@@ -1,4 +1,4 @@
-dataSetVersion = "2022-02-02"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2022-02-23"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options= [
@@ -334,6 +334,16 @@ dataSet[dataSetVersion].characterData = [
         fullbody: "Yui halloween.png",
         opts: {
             outfit: ["halloween"],
+            gender: ["female"],
+            loli: false
+        }
+    },
+    {
+        name: "MoonlightWaltz Yui Yagi",
+        img: "Yui moonlightwaltz.png",
+        fullbody: "Yui moonlightwaltz.png",
+        opts: {
+            outfit: ["misc"],
             gender: ["female"],
             loli: false
         }
@@ -944,6 +954,16 @@ dataSet[dataSetVersion].characterData = [
         fullbody: "Sawako christmas.png",
         opts: {
             outfit: ["christmas"],
+            gender: ["female"],
+            loli: false
+        }
+    },
+    {
+        name: "MoonlightWaltz Sawako Kitami",
+        img: "Sawako moonlightwaltz.png",
+        fullbody: "Sawako moonlightwaltz.png",
+        opts: {
+            outfit: ["misc"],
             gender: ["female"],
             loli: false
         }
