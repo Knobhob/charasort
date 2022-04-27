@@ -1933,7 +1933,7 @@ dataSet[dataSetVersion].characterData = [
         img: "Kei bond.png",
         fullbody: "Kei bond.png",
         opts: {
-            outfit: ["base"],
+            outfit: ["bond"],
             gender: ["female"],
             loli: false
         }
